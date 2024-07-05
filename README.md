@@ -38,3 +38,4 @@ We'd love to join you on your data journey. Connect with us in the following way
 
 ## Contribution
 Contributions in the form of issues or pull requests are greatly appreciated. [Read more](https://sqlmesh.readthedocs.io/en/stable/development/) about how to develop for SQLMesh.
+
